@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+matplotlib
+wordcloud
+textblob
+vaderSentiment
+gensim
+scikit-learn
+numpy
+nltk
+pysbd
+transformers
+torch  # Required for transformers models
